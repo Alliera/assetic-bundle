@@ -2,7 +2,7 @@
     "name": "xircl/assetic-bundle",
     "description": "Integrates Assetic into Symfony2",
     "keywords": ["assets", "compression", "minification"],
-    "homepage": "https://github.com/symfony/AsseticBundle",
+    "homepage": "https://github.com/Alliera/assetic-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
